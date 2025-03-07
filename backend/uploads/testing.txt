@@ -1,0 +1,2 @@
+Git wont let push an empty folder and this folder must exists to upload docs here 
+in good case scenario we wont be needing this and we can force to make this folder as well incase it doesnt exists but since the task was time sensistive i just used this
